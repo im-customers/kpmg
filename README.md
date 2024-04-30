@@ -1,2 +1,1 @@
-# customer-repo-template
-Template for customer repo
+# KPMG Customer Repo
